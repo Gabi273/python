@@ -15,9 +15,7 @@ def suma2():
         if i  <= 3 or i <=7:
             s+= l[i]
 
+            
 if __name__ == "__main__":
     suma2()
-
-
-if __name__ == "__main__":
     suma_lista()
